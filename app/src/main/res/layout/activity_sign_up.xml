@@ -61,7 +61,7 @@
             android:textSize="16sp" />
 
         <EditText
-            android:id="@+id/editTextTextPassword"
+            android:id="@+id/signUpConfirmPassword"
             android:background="@drawable/edit_text_background"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
