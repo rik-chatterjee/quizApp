@@ -1,10 +1,11 @@
-package com.example.quizapp
+package com.example.quizapp.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.Toast
+import com.example.quizapp.R
 import com.google.firebase.auth.FirebaseAuth
 
 class LoginIntro : AppCompatActivity() {

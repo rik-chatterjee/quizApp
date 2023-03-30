@@ -10,5 +10,6 @@
     <color name="colorPrimaryButtonBg">#FFFF5722</color>
     <color name="colorEditTextBorderColor">#E9EBEF</color>
     <color name="colorEditTextBgColor">#f2f5fa</color>
-<!--    #f2f5fa-->
+    <color name="colorPrimaryText">#18206F</color>
+    <color name="colorAccent">#FFEB3B</color>
 </resources>

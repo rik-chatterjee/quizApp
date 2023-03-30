@@ -1,4 +1,4 @@
-package com.example.quizapp
+package com.example.quizapp.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -7,6 +7,7 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
+import com.example.quizapp.R
 import com.google.firebase.auth.FirebaseAuth
 
 class LoginActivity : AppCompatActivity() {
@@ -23,7 +24,7 @@ class LoginActivity : AppCompatActivity() {
 
         val btnSignUp = findViewById<TextView>(R.id.btnSignUp)
         btnSignUp.setOnClickListener {
-            val intent = Intent(this,SignUpActivity::class.java)
+            val intent = Intent(this, SignUpActivity::class.java)
             startActivity(intent)
             finish()
         }

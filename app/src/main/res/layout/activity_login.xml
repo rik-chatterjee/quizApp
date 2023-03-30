@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#FFFFFF"
     app:circularflow_radiusInDP="10dp"
-    tools:context=".LoginActivity">
+    tools:context=".activities.LoginActivity">
 
 
     <LinearLayout
