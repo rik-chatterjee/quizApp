@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">quizApp</string>
+    <string name="profile_text">User 1</string>
+    <string name="profile_header">Profile</string>
 </resources>
