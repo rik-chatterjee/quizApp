@@ -38,11 +38,6 @@
 10. You can also use the blue date picker button at the right hand corner of screen to choose a quiz of particular date.
 11. You can logout of the app by going in the profile section using drawer and then pressing the 'Log Out' button.
 
-# Contact
-[Rik Chatterjee](https://github.com/TheArchitet) -
-rikchat15@gmail.com
-
-
 # Screenshots 
 
 ## Welcome Screen
@@ -73,3 +68,6 @@ rikchat15@gmail.com
 <img src="https://github.com/rik-chatterjee/quizApp/blob/master/SCREENSHOTS/date_picker_page.jpg"  width="250" height="540"/>  
 
 
+# Contact
+[Rik Chatterjee](https://github.com/TheArchitet) -
+rikchat15@gmail.com
