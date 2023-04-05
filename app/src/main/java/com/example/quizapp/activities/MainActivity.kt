@@ -51,6 +51,7 @@ class MainActivity : AppCompatActivity() {
         setUpFireStore()
         setupDrawerLayout()
         setUpRecyclerView()
+        setUpDatePicker()
     }
 
     private fun setUpFireStore() {
@@ -75,8 +76,9 @@ class MainActivity : AppCompatActivity() {
             datePicker.show(supportFragmentManager,"DATEPICKER")
             datePicker.addOnPositiveButtonClickListener {
                 Log.d("DATEPICKER", datePicker.headerText)
-                val dateFormatter = SimpleDateFormat("dd-mm-yyyy")
+                val dateFormatter = SimpleDateFormat("dd-MM-yy")
                 val date = dateFormatter.format(Date(it))
+                Log.d("dateFormat",date)
                 val intent = Intent(this, QuestionActivity::class.java)
                 intent.putExtra("DATE", date)
                 startActivity(intent)
