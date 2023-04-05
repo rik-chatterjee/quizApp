@@ -41,3 +41,12 @@
 # Contact
 [Rik Chatterjee](https://github.com/TheArchitet) -
 rikchat15@gmail.com
+
+
+# Screenshots 
+
+## Welcome Screen
+<img src="https://github.com/rik-chatterjee/quizApp/blob/master/SCREENSHOTS/intro_page.jpg"  width="250" height="540"/>  
+
+## SignUp Screen
+<img src="https://github.com/rik-chatterjee/quizApp/blob/master/SCREENSHOTS/Screenshot_2023-04-05-13-45-29-372_com.example.quizapp.jpg"  width="250" height="540"/>  
