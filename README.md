@@ -38,6 +38,36 @@
 10. You can also use the blue date picker button at the right hand corner of screen to choose a quiz of particular date.
 11. You can logout of the app by going in the profile section using drawer and then pressing the 'Log Out' button.
 
+# Screenshots 
+
+## Welcome Screen
+<img src="https://github.com/rik-chatterjee/quizApp/blob/master/SCREENSHOTS/intro_page.jpg"  width="250" height="540"/>  
+
+## SignUp Screen
+<img src="https://github.com/rik-chatterjee/quizApp/blob/master/SCREENSHOTS/sign_up_page.jpg"  width="250" height="540"/>
+
+## Login Screen
+<img src="https://github.com/rik-chatterjee/quizApp/blob/master/SCREENSHOTS/login_page.jpg"  width="250" height="540"/>  
+
+## Main Screen
+<img src="https://github.com/rik-chatterjee/quizApp/blob/master/SCREENSHOTS/main_page.jpg"  width="250" height="540"/>  
+
+## Question Screen
+<img src="https://github.com/rik-chatterjee/quizApp/blob/master/SCREENSHOTS/question_1.jpg"  width="250" height="540"/><img src="https://github.com/rik-chatterjee/quizApp/blob/master/SCREENSHOTS/question_2.jpg"  width="250" height="540"/>
+
+## Result Screen
+<img src="https://github.com/rik-chatterjee/quizApp/blob/master/SCREENSHOTS/result_page.jpg"  width="250" height="540"/>  
+
+## Profile Screen
+<img src="https://github.com/rik-chatterjee/quizApp/blob/master/SCREENSHOTS/profile.jpg"  width="250" height="540"/>  
+
+## Drawer
+<img src="https://github.com/rik-chatterjee/quizApp/blob/master/SCREENSHOTS/drawer.jpg"  width="250" height="540"/>  
+
+## Date Picker
+<img src="https://github.com/rik-chatterjee/quizApp/blob/master/SCREENSHOTS/date_picker_page.jpg"  width="250" height="540"/>  
+
+
 # Contact
 [Rik Chatterjee](https://github.com/TheArchitet) -
 rikchat15@gmail.com
