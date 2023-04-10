@@ -2,4 +2,20 @@
     <string name="app_name">quizApp</string>
     <string name="profile_text">User 1</string>
     <string name="profile_header">Profile</string>
+    <string name="login_header">Login Now</string>
+    <string name="please_login_to_continue_using_app">Please login to continue using App</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="don_t_you_have_an_account_sign_up">Don;t you have an account ? Sign Up</string>
+    <string name="question_previous_button">Previous</string>
+    <string name="question_next_button">Next</string>
+    <string name="question_submit_button">Submit</string>
+    <string name="signUp_header">Sign Up</string>
+    <string name="sign_up_subheader">Enter Email Id and password to get access to your account</string>
+    <string name="signUp_email_hint">Email</string>
+    <string name="sign_up_password_hint">Password</string>
+    <string name="sign_up_confirm_password_hint">Confirm Password</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="drawer_header_text">Quiz yourself daily</string>
 </resources>

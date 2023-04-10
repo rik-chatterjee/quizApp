@@ -37,15 +37,6 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    private fun populateDummyData(){
-        quizList.add(Quiz("12-10-2021","12-10-21"))
-        quizList.add(Quiz("12-10-2021","12-10-21"))
-        quizList.add(Quiz("12-10-2021","12-10-21"))
-        quizList.add(Quiz("12-10-2021","12-10-21"))
-        quizList.add(Quiz("12-10-2021","12-10-21"))
-        quizList.add(Quiz("12-10-2021","12-10-21"))
-
-    }
 
     private fun setUpView(){
         setUpFireStore()
@@ -61,7 +52,6 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, "Error fetching data", Toast.LENGTH_SHORT).show()
                 return@addSnapshotListener
             }
-            println(value)
             Log.d("DATA", value.toObjects(Quiz::class.java).toString())
             quizList.clear()
             quizList.addAll(value.toObjects(Quiz::class.java))

@@ -24,7 +24,7 @@
             style="@style/TextAppearance.AppCompat.Title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Sign Up"
+            android:text="@string/signUp_header"
             android:textAlignment="center"
             android:textColor="#FF5722"
             android:textSize="27sp" />
@@ -34,7 +34,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:text="Enter Email Id and password to get access to your account"
+            android:text="@string/sign_up_subheader"
             android:textAlignment="center"
             android:textColor="#FF5722" />
 
@@ -45,7 +45,7 @@
             android:layout_marginTop="32dp"
             android:background="@drawable/edit_text_background"
             android:ems="10"
-            android:hint="Email"
+            android:hint="@string/signUp_email_hint"
             android:inputType="textEmailAddress"
             android:textSize="16sp" />
 
@@ -56,7 +56,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
             android:ems="10"
-            android:hint="Password"
+            android:hint="@string/sign_up_password_hint"
             android:inputType="textPassword"
             android:textSize="16sp" />
 
@@ -67,7 +67,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="32dp"
             android:ems="10"
-            android:hint="Confirm Password"
+            android:hint="@string/sign_up_confirm_password_hint"
             android:textSize="16sp"
             android:inputType="textPassword" />
 
@@ -78,7 +78,7 @@
             android:layout_marginTop="32dp"
             android:background="@drawable/btn_primary"
             android:ellipsize="none"
-            android:text="Sign Up"
+            android:text="@string/sign_up_button"
             android:textColor="#F8F4F4"
             android:textSize="17sp">
 
@@ -90,7 +90,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
-            android:text="Already have an account ?"
+            android:text="@string/already_have_an_account"
             android:textAlignment="center"
             android:textColor="#FF5722" />
 

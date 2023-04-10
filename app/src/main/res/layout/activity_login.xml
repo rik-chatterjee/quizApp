@@ -27,7 +27,7 @@
             style="@style/TextAppearance.AppCompat.Title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Login Now"
+            android:text="@string/login_header"
             android:textAlignment="center"
             android:textColor="#FF5722"
             android:textSize="27sp" />
@@ -37,7 +37,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:text="Please login to continue using App"
+            android:text="@string/please_login_to_continue_using_app"
             android:textAlignment="center"
             android:textColor="#FF5722" />
 
@@ -48,7 +48,7 @@
             android:layout_marginTop="32dp"
             android:background="@drawable/edit_text_background"
             android:ems="10"
-            android:hint="Email"
+            android:hint="@string/login_email_hint"
             android:inputType="textEmailAddress"
             android:textSize="16sp" />
 
@@ -59,7 +59,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
             android:ems="10"
-            android:hint="Password"
+            android:hint="@string/login_password_hint"
             android:inputType="textPassword"
             android:textSize="16sp" />
 
@@ -82,7 +82,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
-            android:text="Don;t you have an account ?  Sign Up"
+            android:text="@string/don_t_you_have_an_account_sign_up"
             android:textAlignment="center"
             android:textColor="#FF5722" />
 
